@@ -1,0 +1,21 @@
+Aula introdutório sobre o Git e GitHub.
+Alguns comandos utilizados.
+
+Git config --global (Pode ser global ou apenas para esse repositório) user.email "seu email"  = Configura o email
+Git config --global --unset user.email(Exclui o email)
+
+Git config --global user.name SeuNickname  = Configura um nickname
+Git config --global --unset user.name (Exclui o nickname)
+
+
+Git config --list = mostra uma lista das configs
+
+Git remote -v = mostra a lista de repositórios remotos cadastrados (Repositórios na nuvem)
+
+Git add * (Asterisco serve para selecionar tudo na pasta) = adiciona o que estive dentro da pasta atual para o commit.
+
+Git commit -m (Flag do git commit) "commit inicial" (mensagem curta para saber o que aconteceu)
+
+Git status = monitorar os status dos arquivos. (Diz se está Untracked, unmodified, staged ...)
+
+Git clone = clonar repositório
