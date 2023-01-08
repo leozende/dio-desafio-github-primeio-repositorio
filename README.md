@@ -4,7 +4,14 @@ Repositório criado para o Desafio de Projeto
 
 ## 📖 Sobre
 
-Para a criação do README, é utilizado Markdown
+Um repositório criado apenas para o primeiro desafio de projeto da DIO, com o intuito de se criar o primeiro repositório remoto.
+Para a criação do README, é utilizado Markdown.
 
-### Markdown
+## 🧱 Programas utilizados
+
+- [Git](https://git-scm.com)
+- [GitHub](https://github.com)
+
+### Criação README
+#### Utilização
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
