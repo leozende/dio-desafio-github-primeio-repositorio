@@ -1,5 +1,10 @@
-# Repositório do Desafio de Projeto sobre Git/GitHub da DIO
-Desafio de Projeto sobre Git/GitHub
+# Desafio de Projeto sobre Git/GitHub da DIO
 
-## Markdown
+Repositório criado para o Desafio de Projeto
+
+## 📖 Sobre
+
+Para a criação do README, é utilizado Markdown
+
+### Markdown
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
