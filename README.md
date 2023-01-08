@@ -13,5 +13,5 @@ Para a criação do README, é utilizado Markdown.
 - [GitHub](https://github.com)
 
 ### Criação README
-#### Utilização
+
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
