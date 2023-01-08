@@ -1,5 +1,4 @@
-Aula introdutório sobre o Git e GitHub.
-Alguns comandos utilizados.
+Alguns comandos utilizados para o Git.
 
 Git config --global (Pode ser global ou apenas para esse repositório) user.email "seu email"  = Configura o email
 Git config --global --unset user.email(Exclui o email)
